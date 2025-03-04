@@ -195,4 +195,6 @@ ITProToday: For articles on lockdown mode, eBPF, and zero-trust security.
 
 
 
-
+Developed by: Casey Jay Topojani
+GitHub: skyscope-sentinel
+Business Name: Skyscope Sentinel Intelligence
